@@ -5,3 +5,7 @@ My goal was to replicate the user interface of Netflix, the popular streaming se
 # features
 - Responsive sign in button
 - Animated video effect
+
+# technologies used
+- HTML
+- CSS
